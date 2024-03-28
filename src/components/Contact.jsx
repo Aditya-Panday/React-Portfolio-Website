@@ -32,7 +32,7 @@ const Contact = () => {
 
 
         // Send email using emailjs
-        emailjs.sendForm('service_nxdgcz6', 'template_g9hy829', e.target, 'Hzdpl5HpauKhElaVC')
+        emailjs.sendForm('YOUR_SERVICE_ID', 'YOUR_TEMPLATE_ID', e.target, 'YOUR_USER_ID')
             .then((result) => {
                 console.log(result.text);
                 Swal.fire({
