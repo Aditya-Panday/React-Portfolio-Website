@@ -11,7 +11,7 @@
 
 - 🔭 How to start Project:- **open terminal write command npm install and then npm start**
   
-- 🔭 Live Project:- **https://kaleidoscopic-pie-162bc3.netlify.app/**
+- 🔭 Live Project:- **https://aditya-panday-portofolio.netlify.app/**
 
 - 💬 Ask me about **Full Stack or Mern stack**
 
